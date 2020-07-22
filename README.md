@@ -5,30 +5,32 @@ A demo of [KDE Connect Android App](https://github.com/KDE/kdeconnect-android) w
 ## Screenshots
 <img src="https://github.com/KhalidWar/kdeconnect-sample/blob/master/assets/screenshots/send_files.jpg" width="150"> <img src="https://github.com/KhalidWar/kdeconnect-sample/blob/master/assets/screenshots/media_control.jpg" width="150"> <img src="https://github.com/KhalidWar/kdeconnect-sample/blob/master/assets/screenshots/send_files_night.jpg" width="150"> 
 
+
 ## Features
 - Modern user interface with better user experience
 - Adaptive and persistive Light and Dark themes
 - Simplified settings page
 - ...and much more
 
-## Upcoming Features
+### Upcoming Features
 - "Unlock Screen" command requires mobile device authentication (PIN or biometric)
 
-## Hard-to-implement Features
+### Hard-to-implement Features
 - Example uno.
+
 
 ## Packages used
 - [Provider](https://pub.dev/packages/provider)
+- [Shared Preferences](https://pub.dev/packages/shared_preferences)
+- [Font Awesome Icons](https://pub.dev/packages/font_awesome_flutter)
+- [Animations](https://pub.dev/packages/animations)
 
 
-# Installation
-
+## Installation
 By either sideloading attacked [APK file](https://github.com/KhalidWar/kdeconnect-sample/releases) onto your android device or building project from source following steps below.
-
 
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 
 ### Prerequisites
 ```
