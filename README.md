@@ -1,9 +1,9 @@
 # KDE Connect - Demo
 
-A demo of [KDE Connect Android App](https://github.com/KDE/kdeconnect-android) with more modern UI. This app is built using [Flutter](https://flutter.dev) framework.
+A demo of (PROJECT DETAILS). This app is built using [Flutter](https://flutter.dev) framework.
 
 ## Screenshots
-<img src="https://github.com/KhalidWar/kdeconnect-sample/blob/master/assets/screenshots/send_files.jpg" width="150"> <img src="https://github.com/KhalidWar/kdeconnect-sample/blob/master/assets/screenshots/media_control.jpg" width="150"> <img src="https://github.com/KhalidWar/kdeconnect-sample/blob/master/assets/screenshots/send_files_night.jpg" width="150"> 
+<img src="LINK_TO_SCREENSHOT" width="150"> 
 
 
 ## Features
@@ -27,7 +27,7 @@ A demo of [KDE Connect Android App](https://github.com/KDE/kdeconnect-android) w
 
 
 ## Installation
-By either sideloading attacked [APK file](https://github.com/KhalidWar/kdeconnect-sample/releases) onto your android device or building project from source following steps below.
+By either sideloading attacked [APK file](https://github.com/KhalidWar/PROJECT_NAME/releases) onto your android device or building project from source following steps below.
 
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
