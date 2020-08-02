@@ -1,6 +1,7 @@
 # KDE Connect - Demo
 
-A demo of (PROJECT DETAILS). This app is built using [Flutter](https://flutter.dev) framework.
+## Description
+PROJECT DETAILS. This app is built using [Flutter](https://flutter.dev) framework.
 
 ## Screenshots
 <img src="LINK_TO_SCREENSHOT" width="150"> 
@@ -49,3 +50,9 @@ Then clone this repo to your machine:
 Run app on Emulator or physical device.
 
 **All set!**
+
+## Licensing
+This project is licensed MIT license.
+
+## Acknowledgement
+
