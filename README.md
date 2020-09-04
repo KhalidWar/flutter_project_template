@@ -1,7 +1,6 @@
-# KDE Connect - Demo
+# PROJECT_NAME
+PROJECT_DETAIL. This app is built using [Flutter](https://flutter.dev) framework.
 
-## Description
-PROJECT DETAILS. This app is built using [Flutter](https://flutter.dev) framework.
 
 ## Screenshots
 <img src="LINK_TO_SCREENSHOT" width="150"> 
@@ -14,10 +13,7 @@ PROJECT DETAILS. This app is built using [Flutter](https://flutter.dev) framewor
 - ...and much more
 
 ### Upcoming Features
-- "Unlock Screen" command requires mobile device authentication (PIN or biometric)
-
-### Hard-to-implement Features
-- Example uno.
+- Example
 
 
 ## Packages used
@@ -28,31 +24,23 @@ PROJECT DETAILS. This app is built using [Flutter](https://flutter.dev) framewor
 
 
 ## Installation
-By either sideloading attacked [APK file](https://github.com/KhalidWar/PROJECT_NAME/releases) onto your android device or building project from source following steps below.
+Install by either sideloading attacked [APK file](https://github.com/KhalidWar/REPO_NAME/releases) on your android device or by building project from source following steps below.
 
 ### Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Check out [Flutter's official guide](https://flutter.dev/docs/get-started/install) to installing and running flutter.
 
 ### Prerequisites
-```
-IDE (Android Studio or VSC)
-Dart/Flutter SDK and plugins
-Emulator or physical device
-```
+- Download IDE either [Android Studio](https://developer.android.com/studio) or [VSC](https://code.visualstudio.com/)
+- Install Flutter SDK and Dart plugin
+- Emulator or physical device
 
-A few resources to get you started:
-- [Flutter's official guide to get up and running](https://flutter.dev/docs/get-started/install)
+### Steps
+- Clone this repo to your machine: `https://github.com/KhalidWar/REPO_NAME.git`
+- Run on Emulator or physical device
+- All set!
 
-Then clone this repo to your machine:
+## License
+This project is licensed under [MIT Licnese](https://github.com/KhalidWar/REPO_NAME/blob/master/LICENSE).
 
-`https://github.com/KhalidWar/kdeconnect-sample.git`
-
-Run app on Emulator or physical device.
-
-**All set!**
-
-## Licensing
-This project is licensed MIT license.
-
-## Acknowledgement
-
+## Credits
+- Some images in this project have been obtained royalty-free from [Unsplash](https://unsplash.com/)
