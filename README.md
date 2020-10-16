@@ -30,7 +30,7 @@ Install by either sideloading attacked [APK file](https://github.com/KhalidWar/R
 Check out [Flutter's official guide](https://flutter.dev/docs/get-started/install) to installing and running flutter.
 
 ### Prerequisites
-- Download IDE either [Android Studio](https://developer.android.com/studio) or [VSC](https://code.visualstudio.com/)
+- Download an IDE either [Android Studio](https://developer.android.com/studio) or [VSC](https://code.visualstudio.com/)
 - Install Flutter SDK and Dart plugin
 - Emulator or physical device
 
