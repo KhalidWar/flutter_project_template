@@ -35,10 +35,12 @@ This list can be as long as you'd like but I'd keep it 10 items max. Long list b
 
 ## Security
 *Write about how your project handles security. Again, no tech talk and point to external resource where needed.*
+
 Security is very important to us. That's why we use on device encryption, iOS's [Keychain](https://developer.apple.com/documentation/security/keychain_services#//apple_ref/doc/uid/TP30000897-CH203-TP1), and Android's [KeyStore](https://developer.android.com/training/articles/keystore).
 
 ## Privacy
 *Write about how your project cares about privacy. Ignore this section if you work for facebook, i mean meta.*
+
 PROJECT_NAME is free and open source software licensed under [MIT](https://github.com/KhalidWar/readme_template_flutter/blob/master/LICENSE). Free as in free of charge, ads, analytics, and trackers. What's yours is yours.
 
 ## Packages and dependencies
@@ -52,6 +54,7 @@ packages you're always getting asked about. "Where did you get that beautiful bo
 
 ### Contribution
 *Instructions on how users/devs can contribute to your project*
+
 You can contribute by reporting bugs, suggesting improvements, and/or by helping out with code.
 1. Feel free to fork this repo and help out.
 2. Make small, concise, and well documented commits.
