@@ -1,5 +1,6 @@
 # Project title - Subtitle (3-5 words).
 *A brief one-line two-sentence description of what this project does.*
+
 Mobile app for [Google Images](https://google.com/images). This app utilises [Google Images' API](https://cloud.google.com/appengine/docs/standard/python/images) to search for images on the web.
 
 *Badges go here. Make sure they're clickable and point to whatever service they represent.*
